@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://github.com/Dhanushgowda10/java-github-packages-demo.git</url>
+            <url>https://github.com/Dhanushgowda10/java-github-packages-demo</url>
         </repository>
     </distributionManagement>
 
