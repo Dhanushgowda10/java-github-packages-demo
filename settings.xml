@@ -7,7 +7,7 @@
         <server>
             <id>github</id>
             <username>Dhanushgowda10</username>
-            <password>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</password>
+            <password>${env.GITHUB_TOKEN}</password>
         </server>
     </servers>
 
